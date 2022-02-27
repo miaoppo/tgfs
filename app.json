@@ -13,7 +13,7 @@
     ],
   "repository": "https://github.com/dillahapsarii/TG-FileStreamBot",
   "success_url": "/",
-  "website": "telekstream.herokuapp.com",
+  "website": "stream4you.herokuapp.com",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
